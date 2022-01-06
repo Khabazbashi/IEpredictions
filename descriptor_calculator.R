@@ -7,7 +7,7 @@ source("compound_eluent.R")
 ############################################
 
 # READ AND LOAD .CSV FILE TO STANDARDS 
-standards = read_delim("Data/temp_pred.csv",
+standards = read_delim("Data/old_data.csv",
                        delim = ";",
                        col_names = TRUE)
 
@@ -44,6 +44,6 @@ descriptor_calculated <- descriptor_calculated %>%
 # PRINT RESULTS IN RESULT FOLDER
 write_delim(
   descriptor_calculated,
-  "Data/descs_temp_pred.csv",
+  "Data/descs_old_data.csv",
   delim = ";"
 )
