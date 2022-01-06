@@ -1,0 +1,31 @@
+SMILES;organic;organic_modifier;additive;additive_concentration_mM;name;logIE;instrument;source;logIE_pred;viscosity_old;surface_tension_old;polarity_index_old;pH.aq.;NH4
+ClC1=CC=C(C2=C(O)C(Cl)=C(Cl)C=C2)C=C1Cl;80;MeCN;ammonium acetate;10;2-OH-3,3',4,4'-tetrachlorobiphenyl;3.16763326175;Cyclic IMS;ESI;1.67164;;;;6.89;1
+ClC1=C(O)C(Cl)=C(Cl)C(C2=C(Cl)C(Cl)=C(O)C=C2)=C1;80;MeCN;ammonium acetate;10;4,4'-diOH-2,2',3,3',5-pentachlorobiphenyl;3.163539895;Cyclic IMS;ESI;1.783152;;;;6.89;1
+ClC1=C(Cl)C=C(C2=CC(Cl)=C(O)C(Cl)=C2)C=C1;80;MeCN;ammonium acetate;10;4-OH-3,3',4',5-tetrachlorobiphenyl;0;Cyclic IMS;ESI;1.883857;;;;6.89;1
+ClC1=C(Cl)C=C(C2=C(Cl)C(Cl)=C(O)C(Cl)=C2Cl)C=C1Cl;80;MeCN;ammonium acetate;10;4-OH-2,3,3',4',5,5',6-heptachlorobiphenyl;2.819643098;Cyclic IMS;ESI;1.808635;;;;6.89;1
+ClC1=C(Cl)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;80;MeCN;ammonium acetate;10;4-OH-2,2',3,3',4',5-Hexachlorobiphenyl;2.7412123105;Cyclic IMS;ESI;1.92409;;;;6.89;1
+ClC1=CC(Cl)=C(Cl)C=C1C2=CC(Cl)=C(O)C(Cl)=C2;80;MeCN;ammonium acetate;10;4-OH-2',3,4',5,5'-pentachlorobiphenyl;2.961669175;Cyclic IMS;ESI;1.702707;;;;6.89;1
+ClC1=C(Cl)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2)C=C1;80;MeCN;ammonium acetate;10;4-OH-2',3,3',4',5-pentachlorobiphenyl;3.227222961;Cyclic IMS;ESI;1.76359;;;;6.89;1
+OC1=C(Cl)C=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1Cl;80;MeCN;ammonium acetate;10;4,4'-diOH-2,3,3',5,5'-pentachlorobiphenyl;3.3893307415;Cyclic IMS;ESI;1.937152;;;;6.89;1
+ClC1=C(Cl)C(O)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;80;MeCN;ammonium acetate;10;4,2'-diOH-2,3,3',4',5-pentachlorobiphenyl;3.09056035775;Cyclic IMS;ESI;1.691402;;;;6.89;1
+OC(C(Cl)=C1)=CC=C1C2=CC(Cl)=C(Cl)C=C2;80;MeCN;ammonium acetate;10;4-OH-3,3',4'-trichlorobiphenyl;2.4120423395;Cyclic IMS;ESI;1.58829;;;;6.89;1
+OC(C(Cl)=C1)=C(Cl)C=C1C2=CC(Cl)=C(Cl)C(Cl)=C2;80;MeCN;ammonium acetate;10;4-OH-3,3',4',5',5-pentachlorobiphenyl;3.13550876325;Cyclic IMS;ESI;1.931507;;;;6.89;1
+ClC1=C(O)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;80;MeCN;ammonium acetate;10;4,3'-diOH-2,2',3,4',5-pentachlorobiphenyl;2.901226176;Cyclic IMS;ESI;1.920218;;;;6.89;1
+ClC1=CC=C(C2=C(O)C(Cl)=C(Cl)C=C2)C=C1Cl;77.3076543209877;MeCN;ammonium acetate;10;2-OH-3,3',4,4'-tetrachlorobiphenyl;3.42064264456706;Cyclic IMS;ESI;1.67164;;;;6.89;1
+ClC1=C(O)C(Cl)=C(Cl)C(C2=C(Cl)C(Cl)=C(O)C=C2)=C1;49.4059259259259;MeCN;ammonium acetate;10;4,4'-diOH-2,2',3,3',5-pentachlorobiphenyl;2.87557309251171;Cyclic IMS;ESI;1.914568;;;;6.89;1
+ClC1=C(Cl)C=C(C2=CC(Cl)=C(O)C(Cl)=C2)C=C1;70.2261728395062;MeCN;ammonium acetate;10;4-OH-3,3',4',5-tetrachlorobiphenyl;0;Cyclic IMS;ESI;1.796457;;;;6.89;1
+ClC1=C(Cl)C=C(C2=C(Cl)C(Cl)=C(O)C(Cl)=C2Cl)C=C1Cl;58.197037037037;MeCN;ammonium acetate;10;4-OH-2,3,3',4',5,5',6-heptachlorobiphenyl;2.92598710143761;Cyclic IMS;ESI;1.833135;;;;6.89;1
+ClC1=C(Cl)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;61.9540740740741;MeCN;ammonium acetate;10;4-OH-2,2',3,3',4',5-Hexachlorobiphenyl;2.51024372551899;Cyclic IMS;ESI;1.93619;;;;6.89;1
+ClC1=CC(Cl)=C(Cl)C=C1C2=CC(Cl)=C(O)C(Cl)=C2;73.6444444444444;MeCN;ammonium acetate;10;4-OH-2',3,4',5,5'-pentachlorobiphenyl;2.982075475;Cyclic IMS;ESI;1.702707;;;;6.89;1
+ClC1=C(Cl)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2)C=C1;73.0577777777778;MeCN;ammonium acetate;10;4-OH-2',3,3',4',5-pentachlorobiphenyl;3.271850006;Cyclic IMS;ESI;1.76359;;;;6.89;1
+OC1=C(Cl)C=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1Cl;49.2844444444444;MeCN;ammonium acetate;10;4,4'-diOH-2,3,3',5,5'-pentachlorobiphenyl;2.8514805585;Cyclic IMS;ESI;1.985402;;;;6.89;1
+ClC1=C(Cl)C(O)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;54.7407407407407;MeCN;ammonium acetate;10;4,2'-diOH-2,3,3',4',5-pentachlorobiphenyl;2.95322307146291;Cyclic IMS;ESI;1.780568;;;;6.89;1
+OC(C(Cl)=C1)=CC=C1C2=CC(Cl)=C(Cl)C=C2;70.7688888888889;MeCN;ammonium acetate;10;4-OH-3,3',4'-trichlorobiphenyl;2.79288400153056;Cyclic IMS;ESI;1.58829;;;;6.89;1
+OC(C(Cl)=C1)=C(Cl)C=C1C2=CC(Cl)=C(Cl)C(Cl)=C2;73.3511111111111;MeCN;ammonium acetate;10;4-OH-3,3',4',5',5-pentachlorobiphenyl;3.18143801354854;Cyclic IMS;ESI;1.931507;;;;6.89;1
+ClC1=C(O)C(Cl)=C(C2=CC(Cl)=C(O)C(Cl)=C2Cl)C=C1;48.76;MeCN;ammonium acetate;10;4,3'-diOH-2,2',3,4',5-pentachlorobiphenyl;2.4738670025;Cyclic IMS;ESI;2.039235;;;;6.89;1
+FC1=C(F)C(F)=C(F)C(C2=C(F)C(F)=C(O)C(F)=C2F)=C1F;80;MeCN;ammonium acetate;10;Tetrafluoro-4-(pentafluorophneyl)phenol;2.65828082238447;Cyclic IMS;ESI;2.47886547619047;;;;6.89;1
+OC1=C(C(F)(F)F)C(C(F)(F)F)=C(C(F)(F)F)C(C(F)(F)F)=C1C(F)(F)F;80;MeCN;ammonium acetate;10;2,3,4,5,6-pentakis(trifluoromethyl)phenol;3.35955267250239;Cyclic IMS;ESI;2.93563852813852;;;;6.89;1
+C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;80;MeCN;ammonium acetate;10;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid;3.47495017742809;Cyclic IMS;ESI;2.76826587301587;;;;6.89;1
+FC1=C(F)C(F)=C(F)C(C2=C(F)C(F)=C(O)C(F)=C2F)=C1F;47.0992592592592;MeCN;ammonium acetate;10;Tetrafluoro-4-(pentafluorophneyl)phenol;2.66438213773158;Cyclic IMS;ESI;2.43080769230769;;;;6.89;1
+OC1=C(C(F)(F)F)C(C(F)(F)F)=C(C(F)(F)F)C(C(F)(F)F)=C1C(F)(F)F;55.2355555555556;MeCN;ammonium acetate;10;2,3,4,5,6-pentakis(trifluoromethyl)phenol;3.59806719786785;Cyclic IMS;ESI;3.03192424242424;;;;6.89;1
+C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F;51.6207407407407;MeCN;ammonium acetate;10;1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Heptadecafluoro-1-octanesulfonic acid;3.73783379207264;Cyclic IMS;ESI;2.86233333333333;;;;6.89;1
